@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil de João Pedro 
 
  <div>
-   <a href="https://github.com/João-Pedro-RB">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=João-Pedro-RB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=João-Pedro-RB&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Joao-Pedro-RB">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-RB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-RB&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -18,6 +18,6 @@
  
 <div>
   <a href="https://instagram.com/joao_pedrorb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "joaopedroprofiss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="joaopedroprofiss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-pedro-ribeiro-da-silva-b0b357247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
